@@ -307,6 +307,12 @@ header {
   padding: 32px 0;
 }
 
+.o-t-soc-list {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
 .o-t-soc {
   display: flex;
   justify-content: center;
@@ -321,6 +327,10 @@ header {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.o-t-soc-svg {
+  fill: #f4f4fd;
 }
 
 .o-t-soc-link:hover,
