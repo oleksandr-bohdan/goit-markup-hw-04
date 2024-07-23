@@ -235,17 +235,6 @@ header {
   padding: 120px 0;
 }
 
-.feautures-list-content-div {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 112px;
-  background-color: #f4f4fd;
-  border-radius: 4px;
-  border: 1px solid #8e8f99;
-  margin-bottom: 8px;
-}
-
 .visually-hidden {
   position: absolute;
   width: 1px;
@@ -285,6 +274,16 @@ header {
   color: #434455;
 }
 
+.feautures-list-content-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 112px;
+  background-color: #f4f4fd;
+  border-radius: 4px;
+  border: 1px solid #8e8f99;
+  margin-bottom: 8px;
+}
 /* section-3 */
 
 .our-team {
